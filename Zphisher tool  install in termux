@@ -1,0 +1,21 @@
+https://www.youtube.com/@EXTREME_PROGRAMMING
+
+zphisher ( FISHING ) : 
+
+- Installation
+
+Just, Clone this repository -
+
+git clone --depth=1 https://github.com/htr-tech/zphisher.git 
+
+Now go to cloned directory and 
+run - zphisher.sh
+
+$ cd zphisher $ bash zphishtur-rep
+
+Installation (Termux)
+
+You can easily install zphisher in Termux by using tur-repo
+
+$ pkg install tur-repo $ pkg install zphisher $ zphisher 
+
